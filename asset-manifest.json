@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WildText/static/css/main.e6c13ad2.css",
+    "main.js": "/WildText/static/js/main.5390b18a.js",
+    "static/js/787.4b1552e3.chunk.js": "/WildText/static/js/787.4b1552e3.chunk.js",
+    "index.html": "/WildText/index.html",
+    "main.e6c13ad2.css.map": "/WildText/static/css/main.e6c13ad2.css.map",
+    "main.5390b18a.js.map": "/WildText/static/js/main.5390b18a.js.map",
+    "787.4b1552e3.chunk.js.map": "/WildText/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5390b18a.js"
+  ]
+}
